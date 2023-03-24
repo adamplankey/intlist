@@ -13,11 +13,19 @@ The IntegerList class is designed to manage a dynamic array of integers. It has 
 The public methods include:
 
 Constructor and destructor
+
 Copy constructor
+
 Overloaded assignment operator
+
 Overloaded addition operator
+
 Overloaded subscript operator
+
 resize(): Resizes the list
+
 setElement(): Sets an element at a specified index
+
 getElement(): Gets an element at a specified index
+
 displayList(): Displays the list content
